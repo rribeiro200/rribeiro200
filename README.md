@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Python/Django**
-
 - 📫 How to reach me **rafaelribdev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rafael-o-ribeiro/](https://www.linkedin.com/in/rafael-o-ribeiro/)
